@@ -190,6 +190,10 @@ body
 {
   color: #FFC400;
 }
+#div-nom h2
+{
+  font-size: 20px;
+}
 #div-nom div:last-child
 {
   height: 2px;
@@ -197,6 +201,15 @@ body
   background-color: #FFC400;
   margin-top: 4px;
 }
+.fas
+{
+  font-size: 30px;
+  color: #FFC400;
+}
+
+
+
+
 
 /* Recommandations */
 
@@ -220,7 +233,6 @@ body
 
 /* Responsive design */
 
-
 @media screen and (min-width: 1700px)
 {
   #div-pdp img
@@ -239,7 +251,7 @@ body
   {
     font-size: 40px;
   }
-  h3
+  #div-nom h2
   {
     font-size: 32px;
   }
@@ -287,7 +299,6 @@ body
     border: 2.5px solid black;
   }
 }
-
 
 
 
