@@ -171,6 +171,12 @@ body
 {
   margin-bottom: 70px;
 }
+.fas
+{
+  font-size: 30px;
+  color: #FFC400;
+  margin-right: 3%;
+}
 
 /* Nom, prénom, métier */
 
@@ -201,15 +207,6 @@ body
   background-color: #FFC400;
   margin-top: 4px;
 }
-.fas
-{
-  font-size: 30px;
-  color: #FFC400;
-}
-
-
-
-
 
 /* Recommandations */
 
